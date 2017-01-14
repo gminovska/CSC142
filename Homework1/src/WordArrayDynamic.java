@@ -50,7 +50,7 @@ public class WordArrayDynamic {
 
     //notify the user about the search result
         if (count > 0){
-            System.out. println("The word was found " + count + " times");
+            System.out. println("The word \"" + wordSearch + "\" was found " + count + " times");
         }
         else {
             System.out.println("The word was not found");
