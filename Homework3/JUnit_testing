@@ -1,0 +1,2 @@
+Modify your word search array program (Homework program #1) to create a test class for it using the JUnit tool.  
+When you run the test class using JUnit, it should indicate a pass or fail for each method. 
